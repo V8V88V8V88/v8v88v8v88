@@ -3,7 +3,7 @@
 <h4>[About Me]</h4>
 Username: V8V88V8V88<br>
 Name: Vaibhav<br>
-Interests: Computers, Hardware, Cyber Sec, Designs, Internet, Programming, Anime, Movies, TV Series, Linux, FOSS, Tech.<br>
+Interests: Computers, Hardware, Low-Level, Cyber Sec, Designs, Programming, Linux, FOSS.<br>
 Occupation: CSE Student.<br>
 Languages: C, C++, Rust, Bash<br>
 Country: India<br>
